@@ -1,4 +1,4 @@
-# ### Hi there! 👋🏻 I'm Noemi 🦋 , welcome to my GitHub! 
+# Hi there! 👋🏻 I'm Noemi 🦋 , welcome to my GitHub! 
 <div align="center">
   <img height="200" src="https://res.cloudinary.com/dhyurbdub/image/upload/v1709289879/Screenshot_2023-12-20_104958_ptdhrq.png"  />
 </div>
