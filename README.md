@@ -2,7 +2,7 @@
 <div align="center">
   <img height="200" src="https://res.cloudinary.com/dhyurbdub/image/upload/v1709289879/Screenshot_2023-12-20_104958_ptdhrq.png"  />
 </div>
-
+ 
 I'm a Full Stack Developer: I create dynamic and functional web applications starting from the development of databases and APIs to the creation of web interfaces using the most effective and modern methods for development learned at Epicode School.
 
 I ❤️ technology 💻 and especially video games. 🎮
