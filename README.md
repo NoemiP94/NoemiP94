@@ -65,3 +65,11 @@ read 📚, listen music 🎶, sew 🧵and wear my cosplays.👗
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoemiP94&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noemip94&show_icons=true&locale=en&layout=compact" alt="noemip94" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noemip94&show_icons=true&locale=en" alt="noemip94" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noemip94&" alt="noemip94" /></p>
+
+
