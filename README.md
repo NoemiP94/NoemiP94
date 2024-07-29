@@ -59,7 +59,7 @@ read 📚, listen music 🎶, sew 🧵and wear my cosplays.👗
 
 ## GitHub Stats  
 
-<div align="center">
+<div >
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noemip94&show_icons=true&locale=en&layout=compact" alt="noemip94" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noemip94&show_icons=true&locale=en" alt="noemip94" /></p>
