@@ -64,7 +64,7 @@ read 📚, listen music 🎶, sew 🧵and wear my cosplays.👗
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=noemip94&show_icons=true&locale=en" alt="noemip94" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=noemip94&" alt="noemip94" /></p>  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=noemip94&show_icons=true&locale=en&layout=compact" alt="noemip94" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noemip94" alt="noemip94" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noemip94" alt="noemip94" /></a> </p>
 </div>
 
 
